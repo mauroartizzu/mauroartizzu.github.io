@@ -1,0 +1,4 @@
+baseURL = 'https://mauroartizzu.it/'
+languageCode = 'it-it'
+title = 'My New Hugo Site'
+theme = "github-style"
